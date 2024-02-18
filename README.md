@@ -6,5 +6,6 @@ LINK:https://www.figma.com/file/g0BXdbmbAycpYHzmps4BGr/Wave-Sound?type=design&no
 
 Images:
 
-<img src="/images/Mockup.png">
 <img src="/images/WaveSound.png">
+<img src="/images/Mockup.png">
+
